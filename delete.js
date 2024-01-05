@@ -3,9 +3,9 @@
   */
   
   var employee = {
-     "firstName" : "Ajit",
+   "firstName" : "Ajit",
 	 "lastName" : "Kumar",
-	 "middleName": null
+	 "middleName": "xyz"
   };
   
   delete employee.middleName;
